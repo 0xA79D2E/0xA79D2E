@@ -8,10 +8,10 @@
 ';,  .-(_| : : | : : |_)-.  ,:'   CAD: Solidworks • Fusion • Rhino
   \\/.'  |: : :|: : :|  `.\//     Learning: Linear Algebra • Calc. II • EMag • Statics
    (/    |: : :|: : :|    \)      Reading: Anti-Oedipus - Deleuze & Guattari 
-         |: : :|: : :;            Writing: Translating Rumi's Mathnawi
-        /\ : : | : : /\           Interests: Cybernetics • Digital Ethnography • Entomology
-       (_/'.: :.: :.'\_)          OS1: Arch Linux x86_64 
-        \\  `""`""`  //           OS2: Windows 10 IoT LTSC
-         \\         //            Shell: bash 5.3.3 
-          ':.     .:'             DE: Xfce 4.20                                  
+         |: : :|: : :;            Interests: Cybernetics • Digital Ethnography • Entomology
+        /\ : : | : : /\           OS: Arch Linux
+       (_/'.: :.: :.'\_)          OS2: Windows 10 IoT LTSC
+        \\  `""`""`  //           
+         \\         //            
+          ':.     .:'                                             
 ```
