@@ -7,10 +7,10 @@
         __/ : :Y: : \ _           Cont.: English • French • Persian • Arabic 
 ';,  .-(_| : : | : : |_)-.  ,:'   CAD: Solidworks • Fusion • Rhino
   \\/.'  |: : :|: : :|  `.\//     Learning: Linear Algebra • Calc. II • EMag • Statics
-   (/    |: : :|: : :|    \)      Reading: Anti-Oedipus - Deleuze & Guattari 
-         |: : :|: : :;            Interests: Cybernetics • Digital Ethnography • Entomology
-        /\ : : | : : /\           OS: Arch Linux
-       (_/'.: :.: :.'\_)          OS2: Windows 10 IoT LTSC
+   (/    |: : :|: : :|    \)      Interests: Cybernetics • Digital Ethnography • Entomology
+         |: : :|: : :;            OS: Arch Linux
+        /\ : : | : : /\           OS2: Windows 10 IoT LTSC
+       (_/'.: :.: :.'\_)          
         \\  `""`""`  //           
          \\         //            
           ':.     .:'                                             
